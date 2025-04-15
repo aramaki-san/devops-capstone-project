@@ -1,3 +1,9 @@
+---
+name: User Story
+about: Use this template for tracking new features.
+---
+
+
 **As a** [role]  
 **I need** [function]  
 **So that** [benefit]  
